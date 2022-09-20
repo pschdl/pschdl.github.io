@@ -1,1 +1,1 @@
-# pschdlia.github.io
+# pschdl.github.io
