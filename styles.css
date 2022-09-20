@@ -64,16 +64,18 @@ a:visited {
   	font-size: 100%;
 	/*background-color:blue;*/
 	display: block;
+
 }
 
-.top {
+.alltext {
   	font-size: 100%;
+	display: block;
 }
 
 .heading {
   	font-size: 120%;
 	height: 125px;
-	display: block;
+	display:block;
 
 }
 
