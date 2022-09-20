@@ -72,13 +72,12 @@ a:visited {
 .heading {
   	font-size: 120%;
 	height: 125px;
-	overflow:hidden;
-	overflow-x:hidden;
+
 
 }
 
 .image {	
-	width:124 px;
+	width:140 px;
 	text-align: left;
 	margin-right: 10px;
 	border-right: 3px solid;
